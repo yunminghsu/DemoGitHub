@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "house-g1c0cf999b_1280.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
