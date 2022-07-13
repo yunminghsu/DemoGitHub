@@ -77,7 +77,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="390" height="44"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                                 <items>
-                                    <navigationItem title="Cat Menu" id="0Md-zM-BWi">
+                                    <navigationItem title="Cats Menu" id="0Md-zM-BWi">
                                         <barButtonItem key="leftBarButtonItem" title="Back" style="plain" id="6Xo-Fr-RSr">
                                             <connections>
                                                 <segue destination="BYZ-38-t0r" kind="show" id="QHr-gs-3Qn"/>
